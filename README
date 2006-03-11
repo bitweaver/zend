@@ -1,0 +1,7 @@
+TO install:
+
+You need to download the ZendFramework from http://framework.zend.com/download 
+
+Unzip in this directory and rename to "framework".
+
+Be sure the package is active in Admin -> Kernel -> Packages
