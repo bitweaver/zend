@@ -4,4 +4,8 @@ You need to download the ZendFramework from http://framework.zend.com/download
 
 Unzip in this directory and rename to "framework".
 
+You might need to move some in-development packages like Search to the main library, like:
+
+mv framework/incubator/Zend/Search/ framework/library/Zend/
+
 Be sure the package is active in Admin -> Kernel -> Packages
